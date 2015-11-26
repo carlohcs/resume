@@ -1,6 +1,6 @@
 #Carlos Henrique Carvalho de Santana
 
-**Localização:** Diadema(SP) - Brasil
+**Localização:** Diadema(SP) – Brasil
 
 **Site pessoal:** [http://carlohcs.com.br](http://carlohcs.com.br)
 
@@ -54,23 +54,23 @@ Buscando agora aprimorar-se em aplicativos web e nos segmentos mobile e os compo
 
 ##Experiência Profissional
 
-**Cofundador** * InterAcesso * 11/2013 - 07/2015
+**Cofundador** – InterAcesso – 11/2013 - 07/2015
 
 > Cofundador do projeto.
 Estruturação da base de T.I do projeto, definição de metodologias, softwares, linguagens e recursos de programação para o andamento do projeto.
 Desenvolvimento da marca, usabilidade e melhoria dos processos do sistema para adaptação aos clientes.
 
-**Desenvolvedor Web** * Vita do Brasil * 06/2012 - 11/2013
+**Desenvolvedor Web** – Vita do Brasil – 06/2012 - 11/2013
 
 >Desenvolvimento de ERP da empresa, para automatização e melhoria de processos internos, além de ajudar na reformulação da empresa.
 Criação do site institucional da empresa.
 
-**Desenvolvedor Web** * HadNet * 02/2012 - 06/2012
+**Desenvolvedor Web** – HadNet – 02/2012 - 06/2012
 
 >Estruturação de site com HTML, CSS, PHP, MySql, JavaScript, jQuery e AJAX.
 Criação de rede social UrsoLand.
 
-**Monitor de Sala de Informática (Estagiário)** * Governo do Estado de São Paulo * 02/2010 - 11/2010
+**Monitor de Sala de Informática (Estagiário)** – Governo do Estado de São Paulo – 02/2010 - 11/2010
 
 >Monitoramento de sala de informática.
 Suporte a usuários, indicações de uso de sites úteis.
@@ -79,7 +79,7 @@ Participações em reuniões de capacitação.
 ## Formação Acadêmica
 
 * Graduação em Sistemas para Internet – Faculdades Metropolitanas Unidas (FMU) – Início em fevereiro de 2012 – Término em dezembro de 2014.
-* Técnico em Informática para Internet - ETEC Parque da Juventude – Início em fevereiro de 2012 – Término em dezembro de 2014.
+* Técnico em Informática para Internet – ETEC Parque da Juventude – Início em fevereiro de 2012 – Término em dezembro de 2014.
 
 ## Treinamentos
 
@@ -99,7 +99,7 @@ Participações em reuniões de capacitação.
 3. The Developers Conference – Trilha de JavaScript 2015 – The Developers Conference
     * Carga Horária: 8h
     * [Site do evento](http://www.thedevelopersconference.com.br/)
-4. The Developers Conference – Trilha de StartUps 2015 - The Developers Conference
+4. The Developers Conference – Trilha de StartUps 2015 – The Developers Conference
     * Carga Horária: 8h
     * [Site do evento](http://www.thedevelopersconference.com.br/)
 5. AWS Summit 2015 – Amazon
