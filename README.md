@@ -1,4 +1,4 @@
-#Carlos Henrique Carvalho de Santana
+# Carlos Henrique Carvalho de Santana
 
 **Localização:** Diadema(SP) – Brasil
 
@@ -21,38 +21,40 @@
 * **Skype:** carlohcs
 
 ## Sobre mim
-Desenvolvedor há mais de 6 anos, começou a carreira em T.I após tomar conhecimentos autodidata na manutenção de seu computador Pentium 166 com 32 MB de RAM.
-
-Após entrar em um curso de montagem e manutenção de hardware, desperta o interesse por programação após ter visto trabalhos de colegas.
-
-Realiza então o primeiro curso de programação voltado para a criação de páginas web e armazenamento de informações com PHP e MySql.
-
-De 6 anos para cá, vem realizando cursos, trabalhando em empresas e melhorando sempre seu conhecimento.
+Meu nome é **Carlos Henrique**, tenho 23 anos e moro em Diadema (SP). 
+Atualmente, sou webmaster no **[UOL](http://www.uol.com.br)**. 
+Eu pretendo cursar pós-graduação em Engenharia de Sofware em 2017. 
+Tenho procurado me atualizar constantemente, atualizando meus conhecimentos de acordo as novas tendências e necessidades de projetos. 
+Sou um apaixonado pela tecnologia, e por café também.
+Veja abaixo mais sobre o que sei e o que procuro melhorar.
 
 ## Skills
-
  - HTML
  - CSS
  - JavaScript
-   - jQuery
-   - Ajax
-   - QUnit 
+    - Libs e frameworks
+        - jQuery
+        - React.js
+        - Backbone.js
+        - Angular.js 2 (estudando)
+        - Node.js (estudando)
+   - Testes
+        - QUnit 
+        - Jasmine
  - PHP
-   - Laravel
-   - PHPUnit
-   - Silex
-   - Zend e Symfony components
-
+   - Frameworks
+        - Laravel
+        - Zend e Symfony components
+   - Micro-Frameworks
+        - (Symfony) Silex
+        - (Laravel) Lumen
+   - Testes
+        - PHPUnit
  - AWS (Amazon Web Services)
  - Git, Bitbucket
-
  - Linux
 
-Buscando agora aprimorar-se em aplicativos web e nos segmentos mobile e os componentes:
-
- - NodeJs, PhoneGap, AngularJS, React.js
-
-##Experiência Profissional
+## Experiência Profissional
 
 **Cofundador** – InterAcesso – 11/2013 - 07/2015
 
@@ -76,6 +78,10 @@ Criação de rede social UrsoLand.
 Suporte a usuários, indicações de uso de sites úteis.
 Participações em reuniões de capacitação.
 
+**Webmaster** - UOL - 01/2016 - atualmente
+
+>Webmaster em P&D no serviço UOL Música Deezer e CoLAB.
+
 ## Formação Acadêmica
 
 * Graduação em Sistemas para Internet – Faculdades Metropolitanas Unidas (FMU) – Início em fevereiro de 2012 – Término em dezembro de 2014.
@@ -93,7 +99,7 @@ Participações em reuniões de capacitação.
 1. PHP Conference 2013 – Tempo Real Eventos
     * Carga Horária: 16h
     * [Site do evento](http://phpconference.com.br/)
-2. InterCon PHP – iMasters
+2. InterCon PHP 2014 – iMasters
     * Carga Horária: 8h
     * [Site do evento](http://interconphp.imasters.com.br/)
 3. The Developers Conference – Trilha de JavaScript 2015 – The Developers Conference
@@ -105,6 +111,15 @@ Participações em reuniões de capacitação.
 5. AWS Summit 2015 – Amazon
     * Carga Horária: 8h
     * [Site do evento](https://aws.amazon.com/pt/summits/sao-paulo/)
+6. The Developers Conference – Trilha de JavaScript 2016 – The Developers Conference
+    * Carga Horária: 8h
+    * [Site do evento](http://www.thedevelopersconference.com.br/)
+7. The Developers Conference – Trilha Modern Web 2016 – The Developers Conference
+    * Carga Horária: 8h
+    * [Site do evento](http://www.thedevelopersconference.com.br/)
+8. BrazilJS Conf 2016 - BrazilJS
+    * Carga Horária: 8h
+    * [Site do evento](https://braziljs.org/conf/)
 
 ## Informações adicionais
 
@@ -112,14 +127,12 @@ Participações em reuniões de capacitação.
 
 ### Repositórios públicos
 
-* [JavaScript WebPack](https://github.com/carlohcs/javascript-webpack) - A JavaScript WebPack with a lot of helpers and components to make more easy the developers life.
-
-* [JavaScript](https://github.com/carlohcs/javascript) - A pack with a lot of JavaScript things for PHP.
-
-* [Core](https://github.com/carlohcs/core) - A conventional core for a PHP application.
+* [Github](https://github.com/carlohcs?utf8=%E2%9C%93&tab=repositories&q=&type=source&language=)
 
 ### Projetos
 
 * [Missão Pessoal](http://www.missaopessoal.com.br/) - setembro de 2015
 
-    >"Crie sua missão pessoal agora mesmo! Todos precisam ter um rumo na vida e a missão pessoal faz parte disso. Crie-a agora!" Com essa chamada, o projeto é uma ferramenta que auxilia as pessoas a criarem suas respectivas missões pessoais e compartilhá-las no site. Tudo isso gratuitamente.
+    >"Crie sua missão pessoal agora mesmo! Todos precisam ter um rumo na vida e a missão pessoal faz parte disso. Crie-a agora!" 
+   
+Com essa chamada, o projeto é uma ferramenta que auxilia as pessoas a criarem suas respectivas missões pessoais e compartilhá-las no site. Tudo isso gratuitamente.
