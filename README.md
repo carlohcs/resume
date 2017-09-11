@@ -24,7 +24,7 @@
 Meu nome é **Carlos Henrique**, tenho 24 anos e moro em Diadema (SP). 
 Atualmente, sou Frontend Pleno no **[UOL](http://www.uol.com.br)**. 
 
-Estou cursando pós graduação em MBA em Gestão em T.I.
+Estou cursando pós-graduação em MBA em Gestão em T.I.
 
 ## Skills
  - HTML
@@ -86,6 +86,7 @@ Participações em reuniões de capacitação.
 
 ## Formação Acadêmica
 
+* Pós-graduação em MBA em Gestão de T.I - Faculdade Impacta - Início em agosto de 2017 - Atualmente.
 * Graduação em Sistemas para Internet – Faculdades Metropolitanas Unidas (FMU) – Início em fevereiro de 2012 – Término em dezembro de 2014.
 * Técnico em Informática para Internet – ETEC Parque da Juventude – Início em fevereiro de 2012 – Término em dezembro de 2014.
 
