@@ -21,12 +21,10 @@
 * **Skype:** carlohcs
 
 ## Sobre mim
-Meu nome é **Carlos Henrique**, tenho 23 anos e moro em Diadema (SP). 
-Atualmente, sou webmaster no **[UOL](http://www.uol.com.br)**. 
-Eu pretendo cursar pós-graduação em Engenharia de Sofware em 2017. 
-Tenho procurado me atualizar constantemente, atualizando meus conhecimentos de acordo as novas tendências e necessidades de projetos. 
-Sou um apaixonado pela tecnologia, e por café também.
-Veja abaixo mais sobre o que sei e o que procuro melhorar.
+Meu nome é **Carlos Henrique**, tenho 24 anos e moro em Diadema (SP). 
+Atualmente, sou Frontend Pleno no **[UOL](http://www.uol.com.br)**. 
+
+Estou cursando pós graduação em MBA em Gestão em T.I.
 
 ## Skills
  - HTML
@@ -56,6 +54,14 @@ Veja abaixo mais sobre o que sei e o que procuro melhorar.
 
 ## Experiência Profissional
 
+**Frontend Pleno - co:lab** - UOL - 07/2016 - atualmente
+
+> Atuando dentro do time do co:lab, responsável por ajudar a integrar áreas e desenvolver jobs colaborativos. Entre eles, styleguide, módulos independentes como Conta UOL, Eye Catcher, UOL Bootstrap, etc. Aplicações de reuniões como a "Reunião dos Frontends" e a "Reunião dos Design Tudo".
+
+**Frontend - UOL Música Deezer** - UOL - 01/2016 - 07/2016
+
+> Desenvolvedor de funcionalidades para a antiga "Rádio UOL". Entre elas: o novo player, página do artista, gerenciamento de favoritos e afins.
+
 **Cofundador** – InterAcesso – 11/2013 - 07/2015
 
 > Cofundador do projeto.
@@ -78,16 +84,13 @@ Criação de rede social UrsoLand.
 Suporte a usuários, indicações de uso de sites úteis.
 Participações em reuniões de capacitação.
 
-**Webmaster** - UOL - 01/2016 - atualmente
-
->Webmaster em P&D no serviço UOL Música Deezer e CoLAB.
-
 ## Formação Acadêmica
 
 * Graduação em Sistemas para Internet – Faculdades Metropolitanas Unidas (FMU) – Início em fevereiro de 2012 – Término em dezembro de 2014.
 * Técnico em Informática para Internet – ETEC Parque da Juventude – Início em fevereiro de 2012 – Término em dezembro de 2014.
 
 ## Treinamentos
+
 
 1. Montagem e Manutenção de Hardware – Microcamp
 2. PHP & MySql – 4Linux
@@ -120,6 +123,12 @@ Participações em reuniões de capacitação.
 8. BrazilJS Conf 2016 - BrazilJS
     * Carga Horária: 8h
     * [Site do evento](https://braziljs.org/conf/)
+9. JS Experience 2017 - iMasters
+    * Carga Horária: 8h
+    * [Site do evento](https://jsexperience2017.imasters.com.br)
+10. Code In The Dark 2017 - Front In Sampa 2017 - iMasters
+    * Carga Horária: 3:30h
+    * [Site do evento](http://codeinthedark.com.br)
 
 ## Informações adicionais
 
